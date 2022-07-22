@@ -1,0 +1,22 @@
+{
+  "name": "michelleheathsalon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d page"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinRE/michelleheathsalon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinRE/michelleheathsalon/issues"
+  },
+  "homepage": "https://github.com/justinRE/michelleheathsalon#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
