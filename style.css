@@ -855,8 +855,8 @@
 	.services-container .dt-sc-view-btn { text-align: center; }
 	.services-container .dt-sc-view-btn > a { background: #fff; border-width: 5px; color: #000; padding: 8px 15px; top: -27px; }
 	.services-container { position: relative; }
-	.services-details { background: #f5f5f5; padding: 20px; position: absolute; right: -64%; top: 80px; bottom: 105px; max-width: 400px; position: absolute; }
-	.alignright .services-details { left: -64%; right: auto; text-align: right; }
+	.services-details { background: #f5f5f5; padding: 20px; position: absolute; right: -44%; top: 80px; bottom: 105px; width:300px; max-width: 400px; position: absolute; }
+	.alignright .services-details { left: -44%; right: auto; text-align: right; }
 		
 	a.appointment-btn { color: #fff; padding: 18px 28px; top: -35px; position: relative; font-size: 25px; font-weight: 100; }	
 	a.appointment-btn span { font-weight: bold; }	
@@ -1228,8 +1228,8 @@
 	
 		.services-container > img { width: 85%; }	
 		.services-container.alignright > img { float: right; }	
-		.services-details { top: 40px; right: -45%; max-width: 350px; bottom: 85px; }	
-		.alignright .services-details { left: -45%; }
+		.services-details { top: 40px; right: -5%; max-width: 350px; bottom: 85px; width: 250px;}	
+		.alignright .services-details { left: -5%; }
 		
 			/* @media screen and (-webkit-min-device-pixel-ratio:0) {    
 				.pricing-container .carousel-arrows { padding-right: 30%; }
